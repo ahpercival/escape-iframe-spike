@@ -1,7 +1,4 @@
 # iFrame Spike
-
-Notion card - https://www.notion.so/beyonk/Apple-Google-pay-spike-4695c4dec7644f42af275f107950d5f4?pvs=4
-
 Three separate projects in one to demostrate escaping an iframe using `target='_top'`
 * Project #1 - client-site
 * Project #2 - iframe
