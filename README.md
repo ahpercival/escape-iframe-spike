@@ -1,8 +1,9 @@
 # iFrame Spike
-Three separate projects in one to demostrate escaping an iframe using `target='_top'`
+Four separate projects in one to demostrate escaping an iframe using `target='_top'`
 * Project #1 - client-site
 * Project #2 - iframe
 * Project #3 - checkout
+* Project #4 - nested iframe
 
 ## Installing
 
